@@ -7,7 +7,7 @@ import jdk.dio.i2cbus.I2CDeviceConfig;
 
 /**
  *
- * @author Леонид Бурдиков, leonid.b.d@gmail.com
+ * @author Leonid Burdikov loebrud@icloud.com
  */
 public class SensorLIS3MDL {
     private final I2CDeviceConfig conf;
